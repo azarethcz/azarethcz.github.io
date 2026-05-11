@@ -1,11 +1,23 @@
 baseURL = "https://azarethcz.github.io/"
 locale = "en-US"
-title = "Moje Portfolio"
-theme = "careercanvas"
-diablePostCSS = true
+title = "Azareth Portfolio"
+theme = "PaperMod"
 
-[pagination]
-pagerSize = 5
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
 
-[params.pexels]
-queries = ["technology", "developer", "cloud"]
+[params.homeInfoParams]
+Title = "Azareth"
+Content = "DevOps Engineer | Kubernetes | Rancher | CI/CD | AutoPilot OPS"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/azarethcz"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com"

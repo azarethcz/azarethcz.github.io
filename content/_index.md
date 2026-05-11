@@ -1,14 +1,11 @@
 ---
-title: "Azareth DevOps Portfolio"
+title: "Home"
 ---
 
-# Ahoj 👋
+# DevOps Engineer
 
-Jsem DevOps engineer zaměřený na Kubernetes, CI/CD a cloud infrastrukturu.
-
-- Kubernetes (RKE1 / RKE2)
+Specializace:
+- Kubernetes
 - Rancher
-- GitHub Actions CI/CD
-- Infrastructure as Code
-
-🚀 Stavím AutoPilot Ops – AI DevOps assistant
+- CI/CD
+- Infrastructure Automation
