@@ -1,5 +1,5 @@
 baseURL = "https://azarethcz.github.io/"
-languageCode = "cs-CZ"
+languageCode = "en-US"
 title = "Moje Portfolio"
 theme = "careercanvas"
 diablePostCSS = true
