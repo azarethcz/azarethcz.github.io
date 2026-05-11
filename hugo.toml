@@ -1,8 +1,11 @@
 baseURL = "https://azarethcz.github.io/"
-languageCode = "en-US"
+locale = "en-US"
 title = "Moje Portfolio"
 theme = "careercanvas"
 diablePostCSS = true
 
 [pagination]
 pagerSize = 5
+
+[params.pexels]
+queries = ["technology", "developer", "cloud"]
