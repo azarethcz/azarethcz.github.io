@@ -1,0 +1,8 @@
+baseURL = "https://azarethcz.github.io/"
+languageCode = "cs-CZ"
+title = "Moje Portfolio"
+theme = "careercanvas"
+diablePostCSS = true
+
+[pagination]
+pagerSize = 5

@@ -1,0 +1,26 @@
+{
+  "name": "vyhledajivas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "build": "tailwindcss -i ./assets/css/main.css -o ./static/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azarethcz/azarethcz.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/azarethcz/azarethcz.github.io/issues"
+  },
+  "homepage": "https://github.com/azarethcz/azarethcz.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.14",
+    "tailwindcss": "^4.3.0"
+  }
+}
