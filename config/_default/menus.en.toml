@@ -1,76 +1,76 @@
 [[main]]
-name = "Home"
+name = "Úvod"
 url = "/"
 weight = 10
 
 [[main]]
 identifier = "services"
-name = "Services"
+name = "Služby"
 url = "#"
 weight = 20
 
 [[main]]
-name = "Blog"
+name = "IT Blog"
 url = "/blog/"
 weight = 40
 
 [[main]]
-name = "Contact"
+name = "Kontakty"
 url = "/#contact"
 weight = 80
 
 [[footer]]
 identifier = "website"
-name = "Company"
+name = "DevOps IT"
 url = "#"
 weight = 10
 
 [[footer]]
 parent = "website"
-name = "Home"
+name = "Úvod"
 url = "/"
 weight = 10
 
 [[footer]]
 parent = "website"
-name = "Services"
+name = "Služby"
 url = "/consulting/"
 weight = 20
 
 [[footer]]
 parent = "website"
-name = "Contact"
+name = "Kontakty"
 url = "/#contact"
 weight = 30
 
 [[footer]]
 identifier = "hosting"
-name = "Resources"
+name = "Zdroje vědomostí"
 url = "#"
 weight = 20
 
 [[footer]]
 parent = "hosting"
-name = "Blog"
+name = "IT Blog"
 url = "/blog/"
 weight = 10
 
 [[services]]
-name = "Consulting"
+name = "IT Konzultace"
 url = "/consulting/"
 weight = 10
 [services.params]
 icon = "uil uil-chart-line"
 
 [[services]]
-name = "Development"
+name = "IT Vývoj"
 url = "/#development"
 weight = 20
 [services.params]
 icon = "uil uil-desktop"
 
 [[services]]
-name = "Training"
+name = "IT Know-HOW"
 url = "/#training"
 weight = 30
 [services.params]
