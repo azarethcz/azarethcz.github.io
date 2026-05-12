@@ -1,7 +1,7 @@
 baseURL = "https://azarethcz.github.io/"
 locale = "en-US"
 title = "Azareth Portfolio"
-theme = "blunix"
+theme = "hugo-theme-blunix"
 
 [params]
 ShowReadingTime = true
