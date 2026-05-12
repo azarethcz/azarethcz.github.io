@@ -4,7 +4,7 @@ defaultContentLanguageInSubdir = false
 languageCode = 'en'
 title = 'Hugo Theme Starter'
 description = 'A professional business theme for Hugo'
-theme = "hugo-theme-blunix"
+theme = "blunix"
 uglyURLs = false
 disableKinds = ["taxonomy", "term"]
 
