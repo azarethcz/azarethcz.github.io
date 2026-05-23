@@ -4,13 +4,13 @@ description: "A modern, responsive Hugo theme for businesses and agencies"
 
 blocks:
   - block: hero
-    title: "Your Business"
-    subtitle: "Professional Services,<br>Modern Solutions"
+    title: "IT, DevOps a automatizace služby na mírů"
+    subtitle: "IT od networkingu po správu aplikací,<br>až po DevOpsSec Engineering"
     background: "images/hero-background.jpg"
     cta:
       url: "#contact"
-      title: "Contact us"
-      label: "Get Started Today"
+      title: "Kontaktujte nás"
+      label: "Začněte již dnes!"
 
   - block: partners-scroller
     partners:
