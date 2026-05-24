@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40">
-  <circle cx="17" cy="20" r="12" fill="#10b981"/>
-  <text x="35" y="26" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1f2937">DataHub</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 50">
+  <!-- Azure simplified logo -->
+  <rect x="4" y="10" width="30" height="30" rx="4" fill="#0078D4"/>
+  <!-- Triangle shapes representing Azure logo -->
+  <polygon points="10,34 19,14 25,24" fill="#ffffff" opacity="0.9"/>
+  <polygon points="19,14 32,34 23,34 16,22" fill="#ffffff" opacity="0.6"/>
+  <text x="40" y="31" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#232F3E">MS Azure</text>
 </svg>

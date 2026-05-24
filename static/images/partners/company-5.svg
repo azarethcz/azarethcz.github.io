@@ -1,4 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40">
-  <polygon points="17,8 29,20 17,32 5,20" fill="#ef4444"/>
-  <text x="35" y="26" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1f2937">AppFlow</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50">
+  <!-- Kubernetes blue wheel -->
+  <rect x="4" y="10" width="30" height="30" rx="4" fill="#326CE5"/>
+  <!-- K8s helm wheel simplified -->
+  <circle cx="19" cy="25" rx="8" ry="8" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="19" cy="25" rx="3" ry="3" fill="#ffffff"/>
+  <!-- Spokes -->
+  <line x1="19" y1="17" x2="19" y2="14" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="19" y1="33" x2="19" y2="36" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="11" y1="25" x2="8" y2="25" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="27" y1="25" x2="30" y2="25" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="13" y1="19" x2="11" y2="17" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="25" y1="31" x2="27" y2="33" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="25" y1="19" x2="27" y2="17" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="13" y1="31" x2="11" y2="33" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="40" y="31" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#232F3E">Kubernetes</text>
 </svg>

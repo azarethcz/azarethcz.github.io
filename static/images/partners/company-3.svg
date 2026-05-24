@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40">
-  <path d="M5 20 L17 8 L29 20 L17 32 Z" fill="#8b5cf6"/>
-  <text x="35" y="26" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1f2937">CloudNet</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50">
+  <!-- Google Cloud simplified -->
+  <rect x="4" y="10" width="30" height="30" rx="4" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <!-- G color dots -->
+  <circle cx="13" cy="18" r="4" fill="#4285F4"/>
+  <circle cx="25" cy="18" r="4" fill="#EA4335"/>
+  <circle cx="25" cy="31" r="4" fill="#FBBC05"/>
+  <circle cx="13" cy="31" r="4" fill="#34A853"/>
+  <text x="40" y="31" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#232F3E">Google Cloud</text>
 </svg>
