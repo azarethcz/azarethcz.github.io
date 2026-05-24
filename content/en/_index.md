@@ -4,8 +4,8 @@ description: "A modern, responsive Hugo theme for businesses and agencies"
 
 blocks:
   - block: hero
-    title: "IT, DevOps,<br>Automatizace, AI,<br>Pomáhám společnostem růst digitálně"
-    subtitle: "IT od networkingu po správu aplikací,<br>až po DevOpsSec Engineering"
+    title: "IT, DevOps, AI"
+    subtitle: "Pomáhám společnostem digitálně růst,<br>IT od networkingu po správu aplikací,<br>až po DevOpsSec Engineering"
     background: "images/hero-background.jpg"
     cta:
       url: "#contact"
