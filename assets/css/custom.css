@@ -1,0 +1,12 @@
+.hero img,
+.hero-image img,
+.banner img {
+  object-fit: contain !important;
+  object-position: center top !important;
+  padding-top: 40px;
+}
+
+.hero,
+.banner {
+  min-height: 900px;
+}
