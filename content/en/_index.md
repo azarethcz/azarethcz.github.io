@@ -1,6 +1,6 @@
 ---
-title: "Professional Business Theme for Hugo"
-description: "A modern, responsive Hugo theme for businesses and agencies"
+title: "IT, DevOps, AI služby - Martin Strnad"
+description: "Moderní IT řešení od návrhu po implementaci, DevOpsSec, AI, Tvorba Webů"
 
 blocks:
   - block: hero
